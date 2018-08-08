@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWebBrowserEnhanced</string>
+    <string name="load_url">load_url</string>
+</resources>
